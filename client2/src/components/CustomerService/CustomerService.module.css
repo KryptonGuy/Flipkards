@@ -1,0 +1,83 @@
+.mainContainer{
+min-height: calc(100vh - 85px);
+    background-color: #111614;
+    padding: 40px;
+}
+/* .wrapper{
+    min-height: calc(100vh - 85px);
+    background-color: #111614;
+    padding: 40px;
+} */
+
+.head{
+  color: white;
+  font-family: "Syne";
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.inputs{
+    color: white;
+    font-size: 20px;
+    font-family: "Syne"; 
+}
+
+.serial{
+    background-color: #212121;
+    border: none;
+    border-radius: 8px;
+    height: 40px;
+    margin-left: 15px;
+    color: white;
+}
+.btn{
+    border: none;
+    background-color: #E46138;
+    height: 40px;
+    margin-left: 10px;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.userCard{
+
+}
+
+.m{
+    color: white;
+    font-size: 20px;
+    font-family: "Syne";
+    padding: 5px;
+}
+
+.ma{
+    margin-top: 30px;
+}
+
+.spans{
+    font-size: 25px;
+    font-family: "Syne";
+    font-weight: 700;
+    margin-right: 10px;
+}
+.btns{
+    text-decoration: none;
+    border: none;
+    
+}
+
+.btn1{
+    margin-top: 20px;
+    background-color: #E46138;
+    margin-right:20px ;
+    color: white;
+    font-family: "Syne";
+    font-weight: 700;
+    border-radius: 7px;
+    padding: 15px;
+    cursor: pointer;
+}
